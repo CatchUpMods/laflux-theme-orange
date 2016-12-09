@@ -1,6 +1,6 @@
 # Orange theme for Laflux
 
-Laflux is a Hybrid Platform built with Laravel 5.3. This is the Base thrme for Laflux.
+Laflux is a Hybrid Platform built with Laravel 5.3.Orange is theme for Laflux.
 
 ## Getting Started
 
