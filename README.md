@@ -4,7 +4,7 @@ Laflux is a Hybrid Platform built with Laravel 5.3.Orange is theme for Laflux.
 
 ## Getting Started
 
-Orange theme is a very beautiful, stunning and light weight. The Laflux's website, it self running on the Ornage theme.Click here for the [Demo](http://laflux.com/).
+Orange theme is a very beautiful, stunning and light weight. The Laflux's website, it self running on the Ornage theme.Click here for the [Demo](http://laflux.com/) or you can checkout out theme [Deom](http://themes.laflux.com/orange/)
 
 ### Prerequisites
 
