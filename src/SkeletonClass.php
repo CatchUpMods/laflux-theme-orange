@@ -1,6 +1,6 @@
 <?php
 
-namespace ExtensionsValley\Orange;
+namespace ExtensionsValley\OrangeTheme;
 
 class SkeletonClass
 {

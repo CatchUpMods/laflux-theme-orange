@@ -1,6 +1,6 @@
 <?php
 
-namespace ExtensionsValley\Orange;
+namespace ExtensionsValley\OrangeTheme;
 
 use Illuminate\Support\ServiceProvider;
 use ExtensionsValley\Basetheme\Helpers\ThemeHelper;
